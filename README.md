@@ -786,31 +786,6 @@ CloudWatch Alarm
 
 > Detect → Alert → Log → Recover → Observe
 
----
-
-## 📌 Project Status
-
-Completed
-
-- Sprint 1 — Core Infrastructure
-- Sprint 2 — Automation & Observability
-- Infrastructure Monitoring
-- Automated Scaling
-- Instance Replacement
-- Alarm Notifications
-- Recovery Event Logging
-- CloudWatch Dashboard
-- Functional Testing
-
----
-
-## 👤 Author
-
-Piyushi Singhal
-
-Computer Science Engineering
-
-Software Engineering
 
 ---
 
