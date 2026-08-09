@@ -133,7 +133,7 @@ The system uses different AWS services for different responsibilities:
 The following sequence shows what happens when an infrastructure problem is detected.
 
 <p align="center">
-  <img src="docs/screenshots/alarm-workflow.png" alt="Alarm workflow" width="100%">
+  <img src="Alarm-workflow.png" alt="Alarm workflow" width="100%">
 </p>
 
 ---
@@ -218,7 +218,7 @@ CloudWatch Alarm
 A CloudWatch Dashboard provides a centralized view of infrastructure health and system behavior.
 
 <p align="center">
-  <img src="docs/screenshots/dashboard-overview.png" alt="Dashboard overview" width="100%">
+  <img src="Dashboard-overview.png" alt="Dashboard overview" width="100%">
 </p>
 
 ### Dashboard Metrics
