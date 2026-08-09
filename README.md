@@ -35,7 +35,7 @@ Monitor → Detect → Alert → Log → Recover → Observe
 The following architecture represents the complete system and its major AWS components.
 
 <p align="center">
-  <img src="docs/screenshots/architecture-overview.png" alt="Architecture overview" width="100%">
+  <img src="Architecture overview.png" alt="Architecture overview" width="100%">
 </p>
 
 ---
