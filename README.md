@@ -109,7 +109,7 @@ This creates the event that initiates the automated response workflow.
 The complete failure-handling workflow is:
 
 <p align="center">
-  <img src="docs/screenshots/recovery-flow.png" alt="Recovery flow" width="100%">
+  <img src="Recovery-flow.png" alt="Recovery flow" width="100%">
 </p>
 
 ### Important Architectural Separation
