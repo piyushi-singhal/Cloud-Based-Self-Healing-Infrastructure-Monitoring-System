@@ -45,7 +45,7 @@ The following architecture represents the complete system and its major AWS comp
 The system operates as an event-driven monitoring and recovery pipeline.
 
 <p align="center">
-  <img src="docs/screenshots/monitoring-flow.png" alt="Monitoring flow" width="100%">
+  <img src="Monitoring-flow.png" alt="Monitoring flow" width="100%">
 </p>
 
 ### 1. Application Traffic
