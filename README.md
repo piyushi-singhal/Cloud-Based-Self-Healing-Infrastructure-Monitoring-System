@@ -217,10 +217,6 @@ CloudWatch Alarm
 
 A CloudWatch Dashboard provides a centralized view of infrastructure health and system behavior.
 
-<p align="center">
-  <img src="Dashboard-overview.png" alt="Dashboard overview" width="100%">
-</p>
-
 ### Dashboard Metrics
 
 ```text
@@ -336,6 +332,10 @@ The project was developed through two major sprints.
 
 The first sprint established the foundation:
 
+<p align="center">
+  <img src="Sprint1.png" alt="Dashboard overview" width="100%">
+</p>
+
 - EC2 deployment
 - IAM configuration
 - Security groups
@@ -350,6 +350,10 @@ The first sprint established the foundation:
 ### Sprint 2 — Automation & Observability
 
 The second sprint extended the infrastructure:
+
+<p align="center">
+  <img src="Sprint2.png" alt="Dashboard overview" width="100%">
+</p>
 
 - CloudWatch alarms
 - SNS notifications
